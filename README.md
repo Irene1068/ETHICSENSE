@@ -1,3 +1,5 @@
+[Ethical AI Blueprint}/(https://github.com/Irene1068/ETHICSENSE/blob/main/Ethical_AI_BluePrint.png)
+
 # ETHICSENSE
 ETHICSENSE is a toolkit that scans AI products or outputs to assess risks and ethical dimensions: privacy, security, autonomy, bias, inclusiveness, and more—helping teams identify issues before deployment.
 ETHICSENSE is a toolkit that scans AI products or outputs to assess risks and ethical dimensions: privacy, security, autonomy, bias, inclusiveness, and more—helping teams identify issues before deployment.
