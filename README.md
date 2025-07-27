@@ -29,9 +29,13 @@ Analyze outputs from existing open-source AI systems for bias or privacy risk.
 * Context: During development (“ethics by design”), in pre-deployment review, or as part of an ongoing audit.
 * Affected parties: End users, vulnerable groups, society at large, organizations’ brand/reputation.
 ## Challenges
-* Does not solve: All ethical questions are context-dependent; tools can flag issues but can’t “prove” ethics. May have false negatives/positives. Needs ongoing updates as risks and standards evolve.
+* Does not solve: All ethical questions are context-dependent;
+** tools can flag issues but can’t “prove” ethics.
+** May have false negatives/positives.
+** Needs ongoing updates as risks and standards evolve.
 * Complexity: Many ethical questions lack clear right/wrong answers.
 * Adoption: Organizations may resist, fearing slowdowns or unfavorable findings.
+* Retrospective implementation of ethical behavior is difficult and expensive. This might serve as a component of or a prototype for a true ethicalAI governance framework that can be implemented from project beginning. 
 ## What next
 * Evolve into an Ethical AI / Digital Dignity Governance framework that can help projects be ethical from conception through execution
 * Integrate with development pipelines (CI/CD).
