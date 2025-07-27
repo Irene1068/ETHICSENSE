@@ -9,8 +9,8 @@ Many organizations release AI-driven tools without thoroughly assessing ethical 
 Increasingly frequent—AI adoption is outpacing ethical oversight globally.
 ### Motivation: 
 As someone passionate about digital dignity and responsible AI, I see a pressing need for practical, actionable tools to make AI more trustworthy and inclusive.
-###Importance: 
-Ethical lapses erode trust, cause real harm, and have regulatory and reputational consequences.
+### Importance: 
+Ethical lapses erode trust, cause real harm, and have regulatory, reputational, and financial consequences.
 ## Data and AI Techniques
 ### Data sources:
 * Input: AI system specifications, output logs, training datasets, documentation, user feedback.
