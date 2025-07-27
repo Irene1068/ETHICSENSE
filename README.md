@@ -22,7 +22,8 @@ Ethical lapses erode trust, cause real harm, and have regulatory and reputationa
 * Security checks (e.g., adversarial robustness, data leakage)
 * Explainable AI (XAI) for transparency
 * Multi-criteria scoring models (possibly using rule-based or supervised learning)
-## Demo: Analyze outputs from existing open-source AI systems for bias or privacy risk.
+## Demo: 
+Analyze outputs from existing open-source AI systems for bias or privacy risk.
 ### How is it used
 * Users: Product managers, AI developers, compliance and ethics teams, auditors, researchers, even regulators.
 * Context: During development (“ethics by design”), in pre-deployment review, or as part of an ongoing audit.
