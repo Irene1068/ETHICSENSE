@@ -3,9 +3,14 @@
 ETHICSENSE is a toolkit that scans AI products or outputs to assess risks and ethical dimensions: privacy, security, autonomy, bias, inclusiveness, and more—helping teams identify issues before deployment.
 ![Ethical AI Blueprint](/Ethical_AI_BluePrint.png)
 
+## Why ETHICSENSE?
+Most responsible AI toolkits are built for technical experts and large organizations, focusing narrowly on statistical fairness or compliance. ETHICSENSE is different. We make ethical AI governance radically accessible for non-technical teams, resource-limited organizations, and anyone committed to human-centered technology. ETHICSENSE puts digital dignity at the heart of every project, going beyond fairness to emphasize autonomy, respect, privacy, and transparency throughout the AI lifecycle. With step-by-step guides, practical templates, and clear communication tools, ETHICSENSE bridges the gap between technical analysis and real-world ethical action—empowering diverse teams to evaluate, document, and improve their AI systems quickly, affordably, and with confidence.
+
+## Business Value
+ETHICSENSE delivers concrete value to its users by making ethical AI governance accessible to everyone—not just technical experts. By empowering diverse teams to identify and address ethical risks early, ETHICSENSE helps organizations reduce regulatory and reputational risk, avoid costly compliance consulting, and streamline audit preparation. For example, healthcare startups or small financial firms using ETHICSENSE can save \$20,000–\$50,000 annually on compliance consulting and documentation costs, while reducing exposure to regulatory fines that can easily reach \$250,000 or more per incident (actual figures may vary depending on industry and regulatory environment). Its plain-language tools and templates enable organizations to demonstrate responsible AI practices quickly, earning trust from customers and stakeholders and providing a clear edge in competitive markets where transparency and digital dignity matter most.
 ## Background
 ### Problem: 
-Many organizations release AI-driven tools without thoroughly assessing ethical risks, leading to harm (bias, privacy breaches, manipulation, discrimination).
+Many organizations release AI-driven tools without thoroughly assessing ethical risks, leading to harm (bias, privacy breaches, manipulation, discrimination). To the extent that responsible AI is implemented, it focuses on fairness and  bias detection/mitigation, whereas we believe that those must be addressed in the context of broader digital dignity priorities\.  
 ### How common/frequent: 
 Increasingly frequent—AI adoption is outpacing ethical oversight globally.
 ### Motivation: 
