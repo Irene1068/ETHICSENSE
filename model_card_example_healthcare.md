@@ -68,7 +68,7 @@
 ## 6. Contacts & Acknowledgments
 
 - **Primary Contact:**  
-  Jamie Patel, Data Science Lead (jamie.patel@regionalhealthnet.org)
+  Jane Doe, Data Science Lead (jane.doe@regionalhealthnet.org)
 - **Contributors:**  
   Analytics Team, Clinical Advisory Board, Patient Advocate Group
 - **References / Resources:**  
