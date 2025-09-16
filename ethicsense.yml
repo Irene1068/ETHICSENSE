@@ -1,0 +1,28 @@
+# Example configuration for ETHICSENSE
+# Save this as ethicsense.yml in your project root
+
+project:
+  name: "Healthcare Risk Scoring AI"
+  version: "0.1.0"
+  purpose: "Assist clinicians in prioritizing care and predicting readmission risk"
+  intended_users: ["clinicians", "patient advocates", "compliance officers"]
+  sensitive_data_flags:
+    - "health_data"
+    - "personally_identifiable_information"
+
+scanning:
+  dimensions:
+    - privacy
+    - security
+    - bias_inclusion
+    - transparency
+    - autonomy
+
+reporting:
+  outputs:
+    - scorecard.json
+    - model_card.md
+
+metadata:
+  created_by: "ETHICSENSE Quick Start"
+  created_date: "2025-09-15"
