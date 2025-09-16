@@ -102,9 +102,9 @@ Generates:
 
 ## 9. Contributing, License, Disclaimer
 
-- **License:** MIT (see LICENSE file)  
-- **Contributing:** See CONTRIBUTING.md  
-- **Disclaimer:** ETHICSENSE flags potential risks. It is advisory only and not a substitute for regulatory/legal compliance.
+- **License:** [MIT](docs/license.md)  (see LICENSE file)  
+- **Contributing:** [Contributiong](docs/contributing.md) See CONTRIBUTING.md  
+- **Disclaimer:** ETHICSENSE flags potential risks. It is advisory only and not a substitute for regulatory/legal compliance. See [Full Disclaimer](docs/disclaimer.md)
 
 ---
 
