@@ -1,0 +1,59 @@
+{
+  "project": "Healthcare Risk Scoring AI",
+  "version": "0.1.0",
+  "date": "2025-09-16",
+  "dimensions": {
+    "privacy": {
+      "score": 0.86,
+      "level": "low",
+      "signals": {
+        "pii_hits": 0,
+        "denylist_hits": 0
+      }
+    },
+    "security": {
+      "score": 0.92,
+      "level": "low",
+      "signals": {
+        "injection_signals": 0
+      }
+    },
+    "bias_inclusion": {
+      "score": 0.62,
+      "level": "medium",
+      "signals": {
+        "non_inclusive_term_hits": 1,
+        "parity_gap_percent": 12
+      },
+      "notes": "Detected gender-stereotyped example in one output; consider more balanced examples."
+    },
+    "transparency": {
+      "score": 0.7,
+      "level": "medium",
+      "signals": {
+        "disclosure_present": false,
+        "capability_limits_present": true
+      },
+      "notes": "Add end-user disclosure of model limitations."
+    },
+    "autonomy": {
+      "score": 0.95,
+      "level": "low",
+      "signals": {
+        "manipulative_phrasing_hits": 0
+      }
+    }
+  },
+  "overall": {
+    "grade": "B",
+    "risk": "medium"
+  },
+  "top_findings": [
+    "Missing user disclosure of model limitations in UI or docs",
+    "One non-inclusive example found; parity gap >10% for bias test data"
+  ],
+  "recommended_actions": [
+    "Add clear end-user disclosure and guidance for clinical decision support",
+    "Revise examples and collect balanced prompts/outputs for bias testing; aim for <5% parity gap"
+  ]
+}
