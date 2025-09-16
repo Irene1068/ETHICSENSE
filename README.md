@@ -1,4 +1,5 @@
 # ETHICSENSE
+(Ethical_AI_BluePrint.png)
 
 **Accessible AI Ethics for Everyone**
 
