@@ -18,7 +18,7 @@ It ingests simple files (prompts/outputs, configs), runs modular scanners, assig
 ## 2. What It Does (v0.1 Scope)
 
 **Inputs supported:**
-- `inputs/outputs.jsonl` (each line: `prompt`, `output`, optional `user_group`)  
+- `inputs_outputs.jsonl` (each line: `prompt`, `output`, optional `user_group`)  
 - `ethicsense.yml` (project name, declared purpose, intended users, sensitive data flags)
 
 **Scanners shipped in v0.1:**
@@ -40,7 +40,7 @@ Run your first scan in **2 minutes**:
 
 ```bash
 pip install ethicsense
-ethicsense scan examples/healthcare/inputs.jsonl \
+ethicsense scan examples/healthcare/inputs_outputs.jsonl \
   --config examples/healthcare/ethicsense.yml \
   --out results/
 ```
